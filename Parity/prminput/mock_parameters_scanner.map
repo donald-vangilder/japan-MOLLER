@@ -1,0 +1,7 @@
+! empty for now
+! defines values for variables in the header file
+
+!Name, ScanRate, ScanSpeed, SecondaryAxisStep, Xmin, Xmax, Ymin, Ymax, PrintFrequency
+
+US01 50 50 1 -600 600 -1200 -600 1
+! US02 100 100 1 -600 600 -500 -300 1
